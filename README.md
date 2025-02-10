@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konrad1640
-- 👀 I’m interested in C++ 
-- 🌱 I’m currently learning java science 
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on my new project 
 - 📫 How to reach me konradwyczolkowski@wp.pl 
 
